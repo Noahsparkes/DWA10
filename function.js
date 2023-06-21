@@ -3,7 +3,7 @@ const MAX_NUMBER = 15
 const MIN_NUMBER = -5
 const STEP_AMOUNT = 1;
 
-const number = document.querySelector('sl-input[data-key="number"]')
+const number = document.querySelector('input[data-key="number"]')
 const subtract = document.querySelector('sl-button[data-key="subtract"]')
 const add = document.querySelector('sl-button[data-key="add"]')
 
