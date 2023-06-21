@@ -1,6 +1,6 @@
 # DWA10
 ## Content
-- This exerscise is about building a tally app using the Shoelace component Library and completing the following user stories.
+  This exerscise is about building a tally app using the Shoelace component Library and completing the following user stories.
 
 ### Scenaio: Increment the counter by one
 
